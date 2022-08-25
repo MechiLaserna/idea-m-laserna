@@ -1,0 +1,21 @@
+/*nav tienda*/
+.nav-tienda {
+    display: flex;
+    list-style: none;
+    font-family: 'dm sans', sans-serif;
+    font-size: 15px;
+    color: #1b1b1b;
+}
+
+.nav-tienda li {
+    padding: 20px;
+    padding-top: 50px;
+}
+
+.cards {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    max-width: 900px;
+    justify-content: space-between;
+}
